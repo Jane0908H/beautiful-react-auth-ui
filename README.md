@@ -1,5 +1,5 @@
 # Beautiful React Auth UI
-
+⭐ 1 star away from 16 — thank you for the support!
 ⭐ If you find this useful, consider giving it a star!
 🔥 Copy-paste ready login UI templates built with React + Tailwind.
 
